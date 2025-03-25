@@ -13,7 +13,7 @@ export default function Home() {
         onClick={() => router.push("/login")}
         className="mt-4 px-6 py-2 bg-blue-600 text-white rounded-md"
       >
-        Login
+        registration
       </button>
     </div>
   );
